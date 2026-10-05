@@ -42,114 +42,114 @@ The current application contains the following categories and units.
 
 ### 1. Length
 
-| Unit | Symbol |
-|---|---|
-| Meter | m |
-| Kilometer | km |
-| Centimeter | cm |
-| Millimeter | mm |
-| Mile | mi |
-| Yard | yd |
-| Foot | ft |
-| Inch | in |
+| Unit       | Symbol |
+| ---------- | ------ |
+| Meter      | m      |
+| Kilometer  | km     |
+| Centimeter | cm     |
+| Millimeter | mm     |
+| Mile       | mi     |
+| Yard       | yd     |
+| Foot       | ft     |
+| Inch       | in     |
 
 ### 2. Weight
 
-| Unit | Symbol |
-|---|---|
-| Kilogram | kg |
-| Gram | g |
-| Milligram | mg |
-| Pound | lb |
-| Ounce | oz |
-| Tonne | t |
+| Unit      | Symbol |
+| --------- | ------ |
+| Kilogram  | kg     |
+| Gram      | g      |
+| Milligram | mg     |
+| Pound     | lb     |
+| Ounce     | oz     |
+| Tonne     | t      |
 
 ### 3. Area
 
-| Unit |
-|---|
-| Square Meter |
-| Square Kilometer |
+| Unit              |
+| ----------------- |
+| Square Meter      |
+| Square Kilometer  |
 | Square Centimeter |
-| Square Foot |
-| Square Yard |
-| Acre |
-| Hectare |
+| Square Foot       |
+| Square Yard       |
+| Acre              |
+| Hectare           |
 
 ### 4. Volume
 
-| Unit |
-|---|
-| Liter |
-| Milliliter |
-| Cubic Meter |
+| Unit             |
+| ---------------- |
+| Liter            |
+| Milliliter       |
+| Cubic Meter      |
 | Cubic Centimeter |
-| Gallon (US) |
-| Quart (US) |
-| Pint (US) |
+| Gallon (US)      |
+| Quart (US)       |
+| Pint (US)        |
 
 ### 5. Speed
 
-| Unit | Symbol |
-|---|---|
-| Meter/Second | m/s |
-| Kilometer/Hour | km/h |
-| Mile/Hour | mph |
-| Foot/Second | ft/s |
-| Knot | kn |
+| Unit           | Symbol |
+| -------------- | ------ |
+| Meter/Second   | m/s    |
+| Kilometer/Hour | km/h   |
+| Mile/Hour      | mph    |
+| Foot/Second    | ft/s   |
+| Knot           | kn     |
 
 ### 6. Time
 
-| Unit |
-|---|
-| Second |
-| Minute |
-| Hour |
-| Day |
-| Week |
+| Unit            |
+| --------------- |
+| Second          |
+| Minute          |
+| Hour            |
+| Day             |
+| Week            |
 | Month (30 days) |
 | Year (365 days) |
 
 ### 7. Data Storage
 
-| Unit | Symbol |
-|---|---|
-| Byte | B |
-| Kilobyte | KB |
-| Megabyte | MB |
-| Gigabyte | GB |
-| Terabyte | TB |
-| Bit | bit |
+| Unit     | Symbol |
+| -------- | ------ |
+| Byte     | B      |
+| Kilobyte | KB     |
+| Megabyte | MB     |
+| Gigabyte | GB     |
+| Terabyte | TB     |
+| Bit      | bit    |
 
 ### 8. Pressure
 
-| Unit | Symbol |
-|---|---|
-| Pascal | Pa |
-| Kilopascal | kPa |
-| Bar | bar |
-| Atmosphere | atm |
-| PSI | PSI |
-| Torr | Torr |
+| Unit       | Symbol |
+| ---------- | ------ |
+| Pascal     | Pa     |
+| Kilopascal | kPa    |
+| Bar        | bar    |
+| Atmosphere | atm    |
+| PSI        | PSI    |
+| Torr       | Torr   |
 
 ### 9. Energy
 
-| Unit | Symbol |
-|---|---|
-| Joule | J |
-| Kilojoule | kJ |
-| Calorie | cal |
-| Kilocalorie | kcal |
-| Watt-hour | Wh |
-| Kilowatt-hour | kWh |
+| Unit          | Symbol |
+| ------------- | ------ |
+| Joule         | J      |
+| Kilojoule     | kJ     |
+| Calorie       | cal    |
+| Kilocalorie   | kcal   |
+| Watt-hour     | Wh     |
+| Kilowatt-hour | kWh    |
 
 ### 10. Temperature
 
-| Unit | Symbol |
-|---|---|
-| Celsius | °C |
-| Fahrenheit | °F |
-| Kelvin | K |
+| Unit       | Symbol |
+| ---------- | ------ |
+| Celsius    | °C     |
+| Fahrenheit | °F     |
+| Kelvin     | K      |
 
 ---
 
@@ -313,12 +313,12 @@ Unit-Converter/
 
 ### File Description
 
-| File / Folder | Purpose |
-|---|---|
-| `Unitconverter.py` | Main Python application |
-| `arrows.png` | Application logo loaded by the GUI |
-| `README.md` | Project documentation |
-| `assets/` | README screenshots and documentation images |
+| File / Folder      | Purpose                                     |
+| ------------------ | ------------------------------------------- |
+| `Unitconverter.py` | Main Python application                     |
+| `arrows.png`       | Application logo loaded by the GUI          |
+| `README.md`        | Project documentation                       |
+| `assets/`          | README screenshots and documentation images |
 
 > **Important:** `arrows.png` is loaded directly by the application. Keep it in the same directory as `Unitconverter.py` unless the image path in the code is changed.
 
@@ -467,7 +467,7 @@ Possible enhancements for future versions include:
 
 ## 👨‍💻 Author
 
-**Project Author**
+**Project Author - Pritam Das**
 
 Unit Converter — a desktop utility application for quick and precise unit conversions.
 
